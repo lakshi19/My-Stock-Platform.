@@ -7,17 +7,20 @@ import Education from "./Education";
 import OpenAccount from "../OpenAccount";
 import Navbar from "../Support/Navbar";
 import Footer from "../Support/Footer";
+
+
 function HomePage() {
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       <Hero />
       <Awards />
       <Stats />
       <Pricing />
       <Education />
       <OpenAccount />
-      <Footer />
+      {/* <Footer /> */}
+    
       
     </>
   );
