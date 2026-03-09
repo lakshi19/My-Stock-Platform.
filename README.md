@@ -1,2 +1,2 @@
 # Zerodha
-Please try to implement the project on your own before proceeding to the lectures &amp; code.
+A stock platform application in react js and a dashboard for stocks monitoring.
